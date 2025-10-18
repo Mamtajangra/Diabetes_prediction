@@ -1,10 +1,11 @@
 # Diabetes Prediction
 
-This project predicts the likelihood of diabetes in patients using machine learning techniques on the Pima Indians Diabetes Dataset.
+This project predicts the likelihood of diabetes in patients using machine learning techniques on the Pima Indians Diabetesn Dataset.
 
+## screenshot:
 
-### Diabetes Prediction Example
-![Diabetes Prediction Screenshot](images\db.jpg)
+### Diabetes prediction Example
+![Diabetes prediction Screenshot](images\db.jpg)
 
 
 ## Project Structure
