@@ -4,7 +4,7 @@ This project predicts the likelihood of diabetes in patients using machine learn
 
 
 ### Diabetes Prediction Example
-![Diabetes Prediction Screenshot](db.jpg)
+![Diabetes Prediction Screenshot](images\db.jpg)
 
 
 ## Project Structure
