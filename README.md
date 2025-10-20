@@ -2,13 +2,6 @@
 
 This project predicts the likelihood of diabetes in patients using machine learning techniques on the Pima Indians Diabetesn Dataset.
 
- ## Screenshots
-
-### Diabetes prediction Example
-![Diabetes prediction Screenshot](images\db.jpg)
-
-
-
 ## Project Structure
 
 - `diabetes_detect.ipynb`: Jupyter notebook containing data analysis, preprocessing, model training, evaluation, and prediction.
