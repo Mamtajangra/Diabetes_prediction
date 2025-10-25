@@ -3,7 +3,7 @@
 This project predicts the likelihood of diabetes in patients using machine learning techniques on the Pima Indians Diabetesn Dataset.
 
 
-![App Screenshot](images\db.jpg)
+![App Screenshot](images\db.png)
 
 
 
